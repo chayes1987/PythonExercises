@@ -6,7 +6,7 @@ __author__ = 'Conor'
 """
 
 # A.2 (a)
-vowels = ['a', 'e', 'i', 'o' 'u']
+vowels = ['a', 'e', 'i', 'o', 'u']
 
 
 # Function to count the number of vowels

@@ -14,7 +14,7 @@ numbers = []
 # Read in the 10 numbers
 for num in range(0, 10):
     number = input('Enter a number: ')
-    numbers.append(number)
+    numbers.append(int(number))
 
 # Sort and print
 numbers.sort()
